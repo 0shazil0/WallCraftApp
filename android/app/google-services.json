@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "783204576923",
+    "project_id": "wallcraft-4b978",
+    "storage_bucket": "wallcraft-4b978.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783204576923:android:88126b74a9a3eafc05203e",
+        "android_client_info": {
+          "package_name": "com.InnoAppBuilders.wallcraft"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTpbXB1Y_K57oxHiM7_-ZnW9Oo9zi2oFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

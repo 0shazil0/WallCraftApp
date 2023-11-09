@@ -1,0 +1,36 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "image",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "Is_featured",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "ImageUploadDate",
+          "order": "DESCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "image",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "Is_featured",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "is_addon",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "ImageUploadDate",
+          "order": "DESCENDING"
+        }
+      ]
+    }
+  ]
+}
